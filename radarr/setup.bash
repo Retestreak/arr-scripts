@@ -46,7 +46,7 @@ curl https://raw.githubusercontent.com/RandomNinjaAtk/arr-scripts/main/universal
 echo "Done"
 
 echo "Download AutoConfig service..."
-curl https://raw.githubusercontent.com/RandomNinjaAtk/arr-scripts/main/radarr/AutoConfig.service -o /custom-services.d/AutoConfig
+curl https://raw.githubusercontent.com/Retestreak/arr-scripts/main/radarr/AutoConfig.service -o /custom-services.d/AutoConfig
 echo "Done"
 
 echo "Download AutoExtras service..."
